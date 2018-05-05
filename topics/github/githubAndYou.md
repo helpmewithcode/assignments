@@ -12,6 +12,7 @@ Please answer each of these questions with 1-5 paragraph responses inside of a G
 
 
 ---
+
 1. **Search for the** `react` **Github repository and write about your initial thoughts.**
 
 > I would like you to summarize your initial thoughts about the things that jump out at you. Feel free to click around on anything and everything, but the focus here is *initial thoughts* on what you see.
@@ -21,7 +22,9 @@ Please answer each of these questions with 1-5 paragraph responses inside of a G
   - Words that jump out at you such as: Pull Requests, Commits, and Facebook
   - Numbers associated with words you found. Lots of these words have "badges" of numbers to the right of them. What do you think they are meant to convey?
   - How many people have contributed to this Github project?
+
 ---
+
 2. **Find the contributors for** `react`, **click through their Github profiles, and write your observations.**
 
 > Staying on the Github page for `react` I want you to spend some time searching through a couple of the “Contributors” of this project.
@@ -32,7 +35,9 @@ Please answer each of these questions with 1-5 paragraph responses inside of a G
   - Do they contribute to other projects?
   - Do these profiles convey experience to you?
   - What types of organizations are they a part of?
+
 ---
+
 3. **Sign up for Github yourself and document the experience**
 
 > This is a huge step! If you already have an account, that’s great! Then you can focus on “filling out” your profile to match the current version of yourself.
@@ -50,6 +55,7 @@ Please answer each of these questions with 1-5 paragraph responses inside of a G
     - Probably shouldn’t choose an abstract image, but you totally could, this is my suggestion not prescription.
   - Your `username` is easy to remember or symbolic of you.
     - In my opinion your username is incredibly important (just like your email address). Be aware that these are bits of information that others will use to “get to know you” better, especially through hiring processes.
+
 ---
 
 ## Delivering this assignment
