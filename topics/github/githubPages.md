@@ -34,7 +34,7 @@ Now that you’ve created this repository you are good to move onto the next ste
   - Extra meaningful if you use a password management app like: [1Password](https://1password.com). However be cognizant of your time constraint.
 - Now you are able to use the menu bar (on Mac it’s located at the top of the screen)
   - Choose: “File” → “Clone repository…”
-  - A *modal* should pop up where a list of all repositories you are part of should be listed. Choose
+  - A *modal* should pop up where a list of all repositories you are part of should be listed. Choose `portfolio` from the list. 
 
 Now that you have the app and repository on your *local* machine you’re good to move on!
 
