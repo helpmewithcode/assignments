@@ -8,9 +8,9 @@ Keep in mind, this is a huge opportunity to leverage skills you began refining l
 
 These will be expanded on in their own sections of this!
 
-1. [Create a new repository on Github](https://paper.dropbox.com/doc/18.1.2-git-Github-and-Github-Pages-YMMX7X7eLgu2oYZFQgf0c#:uid=538196302212907296810407&h2=Create-a-new-repository-on-Git)
-2. [Download Github Desktop](https://paper.dropbox.com/doc/18.1.2-git-Github-and-Github-Pages-YMMX7X7eLgu2oYZFQgf0c#:uid=129669429427140408730720&h2=Download-Github-Desktop)
-3. [Turn on Github pages in settings](https://paper.dropbox.com/doc/18.1.2-git-Github-and-Github-Pages-YMMX7X7eLgu2oYZFQgf0c#:uid=372066151242054840174400&h2=3.-Turn-on-Github-pages-in-set)
+1. Create a new repository on Github
+2. Download Github Desktop
+3. Turn on Github pages in settings
 4. Adding content to your new portfolio.
 5. Deliver a link
 
@@ -92,6 +92,6 @@ Possible stretch goals for your assignment:
 
 
 
-## Extra resources
+<!-- ## Extra resources
 
-https://medium.com/@connorleech/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b
+https://medium.com/@connorleech/launch-a-website-with-a-custom-url-using-github-pages-and-google-domains-3dd8d90cc33b -->
